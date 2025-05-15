@@ -67,3 +67,9 @@ node deploy-commands.js
 ```
 node index.js
 ```
+
+---
+
+## 📝 License
+
+This project is open-source under the [MIT License](LICENSE).
