@@ -3,7 +3,8 @@
 GiveawayManager is a simple, reliable, and easy-to-use Discord bot designed specifically for managing giveaways on Discord servers.  
 Perfect for communities that want to run fair and engaging contests with automatic winner selection.
 
-> ⚠️ **Warning:** This bot is an older version and may contain known bugs or compatibility issues with the latest Discord API updates. Use with caution.
+> ⚠️ Note: This bot is based on an older implementation and may require 2–3 minor updates to be fully production-ready.
+It is currently functional and stable for basic giveaway use, but may not fully comply with the latest Discord API best practices.
 
 ---
 
@@ -32,7 +33,7 @@ Perfect for communities that want to run fair and engaging contests with automat
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/GiveawayManager.git
+git clone https://github.com/Crimeeee/GiveawayManager.git
 cd GiveawayManager
 ```
 
