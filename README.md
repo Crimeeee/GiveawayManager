@@ -11,6 +11,8 @@ It is currently functional and stable for basic giveaway use, but may not fully 
 ![Status](https://img.shields.io/badge/status-ready-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Made with](https://img.shields.io/badge/Made%20with-JavaScript-orange)
+![Progress](https://img.shields.io/badge/state-work--in--progress-yellow)
+
 ---
 
 ## ✨ Features
