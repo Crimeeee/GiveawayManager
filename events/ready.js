@@ -14,3 +14,4 @@ export default {
         console.log(chalk.green('---------------------------------------'));
     }
 };
+// You need to install chalk for colors!
